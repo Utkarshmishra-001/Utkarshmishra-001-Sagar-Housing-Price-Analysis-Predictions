@@ -2,6 +2,12 @@
 
 This project provides a comprehensive analysis and machine learning-powered price prediction system for the housing market in **Sagar District, Madhya Pradesh**.
 
+## Tech Stack
+
+*   **Frontend**: HTML5, Tailwind CSS, JavaScript (Vanilla), Chart.js
+*   **Machine Learning**: Python, Scikit-Learn (Random Forest Regressor), Pandas, NumPy
+*   **Database & Auth**: Supabase
+
 ## Project Components
 
 1.  **Data Generation (`data_generator.py`)**: Creates a realistic dataset of 800+ property records based on real-world market trends in Sagar (Makroniya, Tilli, Civil Lines, etc.).
